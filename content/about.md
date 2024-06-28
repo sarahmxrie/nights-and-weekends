@@ -1,7 +1,7 @@
 ---
 title: about
-draft: false
 tags:
+  - Introduction
 ---
- hey there! nice to meet you!
+i'm 25 years old and from berlin, germany.
  

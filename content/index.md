@@ -1,5 +1,7 @@
 ---
-title: hey there! nice to meet you
+title: hey there! :)
+aliases:
+  - about
 ---
 
-i'm Sarah and this is going to be my creative playground!
+nice to meet you! i'm Sarah and this is going to be my creative playground!
