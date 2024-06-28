@@ -1,7 +1,5 @@
 ---
 title: hey there! :)
-aliases:
-  - about
 ---
 
-nice to meet you! i'm Sarah and this is going to be my creative playground!
+nice to meet you! i'm sarah and this blog is going to be my creative playground. wanna get to know more [[about me]] ?
