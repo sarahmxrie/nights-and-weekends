@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: hey there! nice to meet you
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+i'm Sarah and this is going to be my creative playground!
