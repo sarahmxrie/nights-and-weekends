@@ -21,5 +21,5 @@ well, now you basically know who i am. you are very welcome to follow me on my j
 
 peace out ya'll.
 
-[[about me.jpeg]]
+![[about me.jpeg]]
 
