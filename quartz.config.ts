@@ -1,3 +1,4 @@
+import { image } from "d3"
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
@@ -8,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "eudaemonia",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -81,7 +82,9 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
       }),
-      Plugin.Assets(),
+      Plugin.Assets(
+        
+      ),
       Plugin.Static(),
       Plugin.NotFoundPage(),
     ],
