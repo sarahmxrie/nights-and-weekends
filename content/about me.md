@@ -18,5 +18,7 @@ last but not least i have to mention the person who introduced me to buildspace:
 
 well, now you basically know who i am. you are very welcome to follow me on my journey through my twenties where i (hopefully) find something meaningful to do.
 
+peace out ya'll.
+
 
 ![[about me.jpeg]]
