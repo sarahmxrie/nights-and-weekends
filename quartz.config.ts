@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Quicksand",
         body: "Quicksand",
-        code: "IBM Plex Mono",
+        code: "Quicksand",
       },
       colors: {
         lightMode: {

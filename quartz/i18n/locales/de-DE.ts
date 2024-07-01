@@ -22,7 +22,7 @@ export default {
       quote: "Zitat",
     },
     backlinks: {
-      title: "Backlinks",
+      title: "backlinks",
       noBacklinksFound: "Keine Backlinks gefunden",
     },
     themeToggle: {

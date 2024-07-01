@@ -22,7 +22,7 @@ export default {
       quote: "Quote",
     },
     backlinks: {
-      title: "Backlinks",
+      title: "backlinks",
       noBacklinksFound: "No backlinks found",
     },
     themeToggle: {
@@ -33,10 +33,10 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "created with",
     },
     graph: {
-      title: "Graph View",
+      title: "graph view",
     },
     recentNotes: {
       title: "Recent Notes",
