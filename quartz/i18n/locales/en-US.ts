@@ -23,7 +23,7 @@ export default {
     },
     backlinks: {
       title: "backlinks",
-      noBacklinksFound: "No backlinks found",
+      noBacklinksFound: "no backlinks found",
     },
     themeToggle: {
       lightMode: "Light mode",
@@ -47,8 +47,8 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "search",
+      searchBarPlaceholder: "search for something",
     },
     tableOfContents: {
       title: "Table of Contents",
