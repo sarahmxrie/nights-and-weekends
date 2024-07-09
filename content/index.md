@@ -1,7 +1,7 @@
 ---
 title: hey there! :)
-tags:
-  - component
+cssclasses:
+  - recent blog entries
 ---
 
 nice to meet you! i'm sarah and this blog is going to be my creative playground where i emphazise on [[reflections]] and aestics. 
