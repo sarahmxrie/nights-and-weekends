@@ -1,6 +1,7 @@
 ---
 title: no.1
 draft: true
+tags:
 ---
 Today I finished my first bullet journal. Since I found my way into journaling, I've always preferred writing with a pen rather than on my laptop or phone. Somehow my Latin middle school teacher talking about how the learning effect of doing the hand movement while writing with a pen gets lost by typing on a phone or laptop got stuck in my head. I like remembering things, so I always thought it would be better to write to-do lists on paper. The development from paper to bullet journal happened only a couple of months ago. I've already journaled before that, but I don't think I did it that frequently. Most of the time I enjoy reflecting on what's going on in my life and it didn't take me much time. However, there are these moments where I just don't want to journal. In those moments I look at the grey notebook, which always lies somewhere obvious, so I don't forget to use it, and I'll tell myself that it's okay because "I don't have much to reflect on right now". Well, in those kinds of situations I am probably needing it the most. It's when I don't want to open the door to my feelings because I am scared. Scared of what could suddenly jump at me when I am not prepared. Scared of realizations I don't want to face because they could hurt. Scared of accepting that I am not fine even if I tell everyone around me I am (including myself).
 
