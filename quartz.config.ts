@@ -12,8 +12,8 @@ const config: QuartzConfig = {
     pageTitle: "eudaemonia",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
+    analytics: { 
+      provider: 'google', tagId: '<G-BGMY69LN9Y>' 
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
