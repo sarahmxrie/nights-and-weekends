@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitle: "eudaemonia",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: 'google', tagId: 'G-BGMY69LN9Y' },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
