@@ -4,10 +4,9 @@ cssclasses:
   - recent blog entries
 ---
 
-nice to meet you! i'm sarah and this blog is going to be my creative playground where i emphazise on [[reflections]] and aestics. 
+nice to meet you! i'm sarah and this blog is going to be my creative playground where i emphazise on [[reflections]] and aestics. everything is still pretty much in the making but stay tuned for more coming up soon! 
 
-i still don't know what exactly this blog is going to be about but we'll find out during the six weeks of [nights & weekends](https://buildspace.so/nw) by [buildspace](https://buildspace.so/). stay tuned
+already curious and wanna know more [[about me]] ? 
 
-are you curious and wanna know more [[about me]] ?
-
+if you want follow my journey you can subscribe to my newsletter [here](https://eudaemonia.ck.page/b7d7859bc4).
 
