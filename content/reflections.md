@@ -6,4 +6,4 @@ this part of my blog is going to be the glasses through which you'll be able to 
 
 before diving right into it: check out the [[about me]] page to have a general impression on who i am. :) 
 
-[no.1](no.1.md) 
+[[no.1]]
