@@ -1,6 +1,6 @@
 ---
 title: aestetics
-draft: true
+draft: false
 tags:
 ---
 here i will upload pictures - from fashion inspo over photographs to things i find pretty. 
