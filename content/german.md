@@ -1,5 +1,5 @@
 ---
 title: german
-draft: true
+draft: false
 ---
 Hier findest du ausschließlich deutschen Inhalt.

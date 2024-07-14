@@ -7,4 +7,6 @@ this part of my blog is going to be the glasses through which you'll be able to 
 before diving right into it: check out the [[about me]] page to have a general impression on who i am. :) 
 
 
+**list of entries**
+
 [[7.23 am]]
