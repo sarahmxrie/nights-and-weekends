@@ -3,7 +3,6 @@ title: hey there! :)
 cssclasses:
   - recent blog entries
 ---
-
 nice to meet you! i'm sarah and this blog is going to be my creative playground where i emphazise on [[reflections]] and [[aestetics]]. you could probably say that it has a journal kind of vibe. also, you can expect longer texts and insights on my feelings, which may sometimes be raw or intense. 
 in addition, as i want to delve deeper into languages you will probably find entries in different kind of languages starting with english and [[quartz/content/german|german]] right now. 
 

@@ -9,4 +9,4 @@ before diving right into it: check out the [[about me]] page to have a general i
 
 **list of entries**
 
-[[7.23 am]]
+> [[7.23 am]]
