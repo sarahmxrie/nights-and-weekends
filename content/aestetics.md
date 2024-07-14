@@ -7,5 +7,5 @@ here i will upload pictures - from fashion inspo over photographs to things i fi
 
 stay tuned for more coming up!
 
-![[icon.jpg]]
+![[IMG_0470.jpg]]
 
