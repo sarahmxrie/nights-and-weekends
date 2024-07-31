@@ -3,10 +3,16 @@ title: aestetics
 draft: false
 tags:
 ---
-here i will upload pictures - from fashion inspo over photographs to things i find pretty. 
+here i will upload pictures - from fashion inspo or photographs to things i think are pretty. 
 
-stay tuned for more coming up!
 
-![](static/aest1.png)
+berlin summer at night
+![](static/aest3.jpg)
 
+
+swimming fairy
 ![](static/aest2.jpg)
+
+
+follow the colors
+![](static/aest1.png)
